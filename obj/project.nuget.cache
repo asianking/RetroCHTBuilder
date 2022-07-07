@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0PYTdhqE/GKbBjgNYU3xyDOAhZqPnsMWj0lDRB0Y//fc8e3FiJ3u/EI0t1OroCGHiPqLNtUs8g08Dp5h3CNT7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LadyChaos\\source\\repos\\RetroCHTBuilder\\RetroCHTBuilder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LadyChaos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.26\\microsoft.netcore.app.host.win-x64.3.1.26.nupkg.sha512",
+    "C:\\Users\\LadyChaos\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\LadyChaos\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\LadyChaos\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
