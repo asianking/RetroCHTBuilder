@@ -8,9 +8,9 @@ Features
 3. Auto format codes to meet Retroarch cht formats.
 4. Auto Increment number of cheats when add.
 
-ToDo | Priority
-Prompt to see if you want to overwrite existing file | Low
-Add more consoles | Low
+ToDo
+Prompt to see if you want to overwrite existing file
+Add more consoles
 
 
 Tested: 
