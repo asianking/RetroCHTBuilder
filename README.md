@@ -2,13 +2,13 @@ Welcome to the RetroCHTBuilder wiki!
 
 This program should be straightforward.
 
-~Features~
+Features
 1. Create the cht file.
 2. Auto redirect path based on Platform selection
 3. Auto format codes to meet Retroarch cht formats.
 4. Auto Increment number of cheats when add.
 
-~ToDo | Priority~
+ToDo | Priority
 Prompt to see if you want to overwrite existing file | Low
 Add more consoles | Low
 
