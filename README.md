@@ -9,8 +9,8 @@ Features
 4. Auto Increment number of cheats when add.
 
 ToDo
-Prompt to see if you want to overwrite existing file
-Add more consoles
+1. Prompt to see if you want to overwrite existing file
+2. Add more consoles
 
 
 Tested: 
