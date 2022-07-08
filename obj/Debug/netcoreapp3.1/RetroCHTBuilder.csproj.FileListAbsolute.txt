@@ -1,0 +1,16 @@
+C:\Users\LadyChaos\source\repos\RetroCHTBuilder\bin\Debug\netcoreapp3.1\RetroCHTBuilder.exe
+C:\Users\LadyChaos\source\repos\RetroCHTBuilder\bin\Debug\netcoreapp3.1\RetroCHTBuilder.deps.json
+C:\Users\LadyChaos\source\repos\RetroCHTBuilder\bin\Debug\netcoreapp3.1\RetroCHTBuilder.runtimeconfig.json
+C:\Users\LadyChaos\source\repos\RetroCHTBuilder\bin\Debug\netcoreapp3.1\RetroCHTBuilder.runtimeconfig.dev.json
+C:\Users\LadyChaos\source\repos\RetroCHTBuilder\bin\Debug\netcoreapp3.1\RetroCHTBuilder.dll
+C:\Users\LadyChaos\source\repos\RetroCHTBuilder\bin\Debug\netcoreapp3.1\RetroCHTBuilder.pdb
+C:\Users\LadyChaos\source\repos\RetroCHTBuilder\obj\Debug\netcoreapp3.1\RetroCHTBuilder.csproj.AssemblyReference.cache
+C:\Users\LadyChaos\source\repos\RetroCHTBuilder\obj\Debug\netcoreapp3.1\RetroCHTBuilder.Form1.resources
+C:\Users\LadyChaos\source\repos\RetroCHTBuilder\obj\Debug\netcoreapp3.1\RetroCHTBuilder.csproj.GenerateResource.cache
+C:\Users\LadyChaos\source\repos\RetroCHTBuilder\obj\Debug\netcoreapp3.1\RetroCHTBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LadyChaos\source\repos\RetroCHTBuilder\obj\Debug\netcoreapp3.1\RetroCHTBuilder.AssemblyInfoInputs.cache
+C:\Users\LadyChaos\source\repos\RetroCHTBuilder\obj\Debug\netcoreapp3.1\RetroCHTBuilder.AssemblyInfo.cs
+C:\Users\LadyChaos\source\repos\RetroCHTBuilder\obj\Debug\netcoreapp3.1\RetroCHTBuilder.csproj.CoreCompileInputs.cache
+C:\Users\LadyChaos\source\repos\RetroCHTBuilder\obj\Debug\netcoreapp3.1\RetroCHTBuilder.dll
+C:\Users\LadyChaos\source\repos\RetroCHTBuilder\obj\Debug\netcoreapp3.1\RetroCHTBuilder.pdb
+C:\Users\LadyChaos\source\repos\RetroCHTBuilder\obj\Debug\netcoreapp3.1\RetroCHTBuilder.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+Cheats = 1
+
+cheat0_desc = "test`1"
+cheat0_code = "12345678+1234"
+cheat0_enable = False
+
