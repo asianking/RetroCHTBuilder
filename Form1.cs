@@ -97,7 +97,7 @@ namespace RetroCHTBuilder
                 getcodes = getcodes.Replace(" ", "+");
 
 
-                changeLine(InputFile, 0, "Cheats = 1\r\n\r\ncheat0_desc = \"" + input_Desc.Text + "\"\r\ncheat0_code = \"" + getcodes + "\"\r\ncheat0_enable = " + checkme + "\r\n\r\n");
+                changeLine(InputFile, 0, "cheats = 1\r\n\r\ncheat0_desc = \"" + input_Desc.Text + "\"\r\ncheat0_code = \"" + getcodes + "\"\r\ncheat0_enable = " + (checkme.ToString()).ToLower() + "\r\n\r\n");
             }
             else
             {
@@ -123,7 +123,7 @@ namespace RetroCHTBuilder
                 //MessageBox.Show(newNumber.ToString());
 
                 //append new cheats number
-                changeLine(InputFile, getcheatsline, "Cheats = " + newNumber.ToString());
+                changeLine(InputFile, getcheatsline, "cheats = " + newNumber.ToString());
 
                 //replace newline & whitespaces with +
                 string getcodes = InputCode.Text;
@@ -131,7 +131,7 @@ namespace RetroCHTBuilder
                 getcodes = getcodes.Replace(" ", "+");
 
                 //apend new codes
-                string newcodes = "cheat" + currentNumber + "_desc = \"" + input_Desc.Text + "\"\r\ncheat" + currentNumber + "_code = \"" + getcodes + "\"\r\ncheat" + currentNumber + "_enable = " + checkme + "\r\n\r\n";
+                string newcodes = "cheat" + currentNumber + "_desc = \"" + input_Desc.Text + "\"\r\ncheat" + currentNumber + "_code = \"" + getcodes + "\"\r\ncheat" + currentNumber + "_enable = " + (checkme.ToString()).ToLower() + "\r\n\r\n";
                 InputFile.AppendText(newcodes);
 
 

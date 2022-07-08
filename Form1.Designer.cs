@@ -327,7 +327,6 @@ namespace RetroCHTBuilder
         private System.Windows.Forms.Button BCancel;
         private System.Windows.Forms.RichTextBox InputFile;
         private System.Windows.Forms.GroupBox GBView;
-        private System.Windows.Forms.Button BOUpdate;
         private System.Windows.Forms.Button BOSave;
         private System.Windows.Forms.GroupBox GBUpload;
         private System.Windows.Forms.Button BBrowse;
