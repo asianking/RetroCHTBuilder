@@ -40,3 +40,6 @@ A. Maybe. Busy with life so I'll update once in the blue moon.
 
 4. Since it's open-source, can we do what we want with the files and distribute them?
 A. Make sure to credit me. 
+
+5. I tried to run it, but it wants the .Net Core framework.
+A. Get it from here: https://dotnet.microsoft.com/en-us/download/dotnet/3.1
